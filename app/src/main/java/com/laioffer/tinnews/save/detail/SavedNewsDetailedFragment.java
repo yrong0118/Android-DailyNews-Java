@@ -43,6 +43,7 @@ public class SavedNewsDetailedFragment extends TinBasicFragment {
     }
 
 
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {

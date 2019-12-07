@@ -50,7 +50,7 @@ public class SavedNewsFragment extends MvpFragment<SavedNewsContract.Presenter> 
         viewModelAdapter = new ViewModelAdapter();
         indicator = view.findViewById(R.id.empty_state);
         recyclerView.setAdapter(viewModelAdapter);
-        indicator = view.findViewById(R.id.empty_state);
+//        indicator = view.findViewById(R.id.empty_state);
         return view;
     }
 

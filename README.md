@@ -23,7 +23,7 @@ News detail pages based based on MVP architectural pattern which supports news s
 ![](https://github.com/yrong0118/Daily-News/blob/master/ReadMePic/News%20Detail.png)
 
 #### 5）Setting page
-Supported at least two languages (English plus German)
+Supported at least two languages (English plus German
 ![](https://github.com/yrong0118/Daily-News/blob/master/ReadMePic/Setting%20page.png)
 
 #### 6）Authentication

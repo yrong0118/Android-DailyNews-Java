@@ -1,10 +1,8 @@
 # Daily-News
 
-Daily News - Tinder Flavor News Android app based on MVP architectural pattern in Kotlin 
-Utilized Retrofit and Rxjava to fetch the latest news data (category, editor, time, etc.) from a RESTFUL endpoint. 
-Developed ViewPager with BottomBar which holds News/Save/Settings tabs state in the MainActivity concurrently. 
-Utilized fragments to support the flexibility of UI layout design
-Utilized the Firebase Realtime DB Stored user and news data.
-1) Login/ Sign Up
+## Daily News - Tinder Flavor News <I>Android app<I> based on MVP architectural pattern in Kotlin 
 
-Used Firebase Authentication to implement login / sign up, allow the user to enter in an email / password.
+Daily News is an android application developed in Kolten based on the design of the Tinder app and allows users to filter and view the latest news articles. This app allows users to create accounts and like or dislike news articles by swiping left or right on the home page. Liked news articles will be added into the saved news history page, where users can view them later. Disliked articles are removed from the user’s home page. 
+
+The app uses Retrofit and Rxjava to fetch the latest news data (category, editor, time, etc.) from a RESTFUL endpoint (newsapi). The app uses fragments to support the flexibility of UI layout. Additionally, a ViewPager with BottomBar was developed, which holds Find, Save, and Settings tab states in the MainActivity concurrently. For the managing data, Firebase Realtime DB was used to store user and news data.
+

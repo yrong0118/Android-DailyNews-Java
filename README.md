@@ -12,16 +12,22 @@ Used Firebase Authentication to implement login / sign up, allow the user to ent
 
 #### 2)Find News - Tinder Flavor
 Used Mindorks’s PlaceHolderView to support swipe gestures for liking/disliking news articles.
+![](https://github.com/yrong0118/Daily-News/blob/master/ReadMePic/Find%20News.png)
 
 #### 3）Liked History
 The news histories are displayed in a RecyclerView and include title and description and news icon. When there is no news liked history it would show “No Saved News”.
+![](https://github.com/yrong0118/Daily-News/blob/master/ReadMePic/Liked%20History.png)
 
 #### 4）News Detail
 News detail pages based based on MVP architectural pattern which supports news shows flexibility. It can support multiple types of news display. 
+![](https://github.com/yrong0118/Daily-News/blob/master/ReadMePic/News%20Detail.png)
 
 #### 5）Setting page
 Supported at least two languages (English plus German)
+![](https://github.com/yrong0118/Daily-News/blob/master/ReadMePic/Setting%20page.png)
 
 #### 6）Authentication
+![](https://github.com/yrong0118/Daily-News/blob/master/ReadMePic/Authentication.png)
 
 #### 7）Firebase Realtime DB
+![](https://github.com/yrong0118/Daily-News/blob/master/ReadMePic/database.png)

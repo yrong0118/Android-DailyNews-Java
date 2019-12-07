@@ -8,7 +8,7 @@ The app uses <B><I>Retrofit</I></B> and <B><I>Rxjava</I></B> to fetch the latest
 
 #### 1) Login/ Sign Up
 Used Firebase Authentication to implement login / sign up, allow the user to enter in an email / password.
-![](https://github.com/Daily-News/ReadMePic/login.png)
+![](https://github.com/yrong0118/Daily-News/blob/master/ReadMePic/login.png)
 
 #### 2)Find News - Tinder Flavor
 Used Mindorks’s PlaceHolderView to support swipe gestures for liking/disliking news articles.

@@ -16,10 +16,10 @@ The news history is displayed in a RecyclerView and shows the title, description
 
 #### 3）News Detail
 News detail pages are based on the Model Viewer Presenter (MVP) architectural pattern which supports news article layout flexibility. It can support multiple types of news article layouts. 
-![](https://github.com/yrong0118/Daily-News/blob/master/ReadMePic/News%20Detail.png)
+![](https://github.com/yrong0118/DailyNews-Java/blob/master/images/newsDetail.png)
 
 #### 4）Setting page
 The application menus supports two languages (English and German). Additionally, the source of the language used in the article can be translated to these two languages. Finally, the app supports clean cache, which clears the in the liked history.
 
-![](https://github.com/yrong0118/Daily-News/blob/master/ReadMePic/Setting%20page.png)
+![](https://github.com/yrong0118/DailyNews-Java/blob/master/images/setting.png)
 
